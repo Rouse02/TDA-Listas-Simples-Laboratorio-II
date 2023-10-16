@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694786467 source:c:\users\rocio y brisa\desktop\practica l simples y l dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
